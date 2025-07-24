@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="holdhandsmod"
+version="1.0"
+displayName="Hold Hands Mod"
+description='''
+Allows players to hold hands by right-clicking each other.
+'''
